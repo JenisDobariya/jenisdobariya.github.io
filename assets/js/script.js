@@ -1,4 +1,5 @@
 'use strict';
+console.log("Welcome to Jenish's Portfolio!");
 
 
 
